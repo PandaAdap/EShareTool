@@ -5,8 +5,7 @@ I will only open the source code of the current version when it is not available
 I will only open the source code of the current version when it is not available.
 I will only open the source code of the current version when it is not available.
 
-V1.1.0
-1.Win7 supported.
+https://github.com/PandaAdap/EShareTool/releases/download/1.1.0/EShareTool.exe
 
-V1.0.3
-1.Unlimited sharing!
+
+https://github.com/PandaAdap/EShareTool/releases/download/1.0.3/EShareTool.exe
