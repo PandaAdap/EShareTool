@@ -12,11 +12,14 @@ V1.1.1
 1.Fix bug may cause the program to exit abnormally.(Maybe)  
 2.Some improvements.  
 ->https://github.com/PandaAdap/EShareTool/releases/download/1.1.1/EShareTool.exe  
+->https://gitee.com/pandaadap/EShareTool/attach_files/754786/download/EShareTool.exe    
 
 V1.1.0  
 1.Windows 7 supported.  
 ->https://github.com/PandaAdap/EShareTool/releases/download/1.1.0/EShareTool.exe  
+->https://gitee.com/pandaadap/EShareTool/attach_files/754785/download/EShareTool.exe    
 
 V1.0.3  
 Unlimited sharing!  
 ->https://github.com/PandaAdap/EShareTool/releases/download/1.0.3/EShareTool.exe  
+->https://gitee.com/pandaadap/EShareTool/attach_files/754784/download/EShareTool.exe    
