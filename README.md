@@ -4,6 +4,8 @@ EShareTool is an application running on Windows platform which can bypass ESurfi
 I will only open the source code of the current version when it is not available.  
 I will only open the source code of the current version when it is not available.  
 I will only open the source code of the current version when it is not available.  
+  
+And now it has been opened...
 
 Starting from 1.1.1, there is no need to install the VC++ runtime.
 
